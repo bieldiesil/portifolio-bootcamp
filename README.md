@@ -4,7 +4,8 @@
 
 portfólio de projetos 
 # Estrutura do Repositório
-# projetos-academicos/Projetos desenvolvidos em contexto acadêmico
+
+#projetos-academicos/Projetos desenvolvidos em contexto acadêmico
 
 #projetos-pessoais/Projetos autorais e experimentais
 
