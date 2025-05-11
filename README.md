@@ -26,7 +26,7 @@
 
 ## 📊 GitHub Stats
 
-!(https://github-readme-stats.vercel.app/api?username=bieldiesil&show_icons=true&theme=default&hide_rank=true)
+(https://github-readme-stats.vercel.app/api?username=bieldiesil&show_icons=true&theme=default&hide_rank=true)
 
 
 
