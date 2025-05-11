@@ -1,6 +1,6 @@
-# 👋 Olá! Eu sou [Seu Nome]
+# Meu nome é Gabriel Lucas Carvalho de Andrade 
 
-Bem-vindo(a) ao meu perfil! Aqui você encontrará uma coleção dos meus projetos, estudos e colaborações no universo da tecnologia.
+
 
 ---
 
